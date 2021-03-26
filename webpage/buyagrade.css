@@ -24,3 +24,15 @@ input[type="submit"] {
     font-size: 2em;
     width: 100%;
 }
+input{
+    outline: none;
+}
+dt{
+    margin-top: 5px;
+}
+
+.name{
+    border-radius: 15px;
+    padding: 3px 5px;
+    border: 1px solid black;
+}
